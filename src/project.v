@@ -21,7 +21,7 @@ module tt_um_mostparsingvex1(
   wire[7:0] data_in;
   //assign data_in[3:0] = ui_in[3:0];
   //assign data_in[7:4] = 4'h0;
-  assign data_in[4:0] = ui_in[4:0]
+  assign data_in[4:0] = ui_in[4:0];
   assign data_in[7:5] = 3'h0;
   amx_core1 U0( .clk( clk ), .rst( rst ), .data_in( data_in ), .data_out( uo_out ) );
 
