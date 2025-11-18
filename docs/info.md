@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Turn it on and the outputs should wiggle real fast.
 
 ## How to test
 
-Explain how to use your project
+Plug it in and watch the outputs wiggle on a scope.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED or oscilloscope should be sufficient.
